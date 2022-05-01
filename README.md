@@ -7,7 +7,9 @@ In this section I have described how to annotate images , so that Segmentation c
 ## References
 
 https://drive.google.com/drive/u/0/folders/1P7RffRtB7nhyVMtCWoxG9hLTgr_wrMWe
+
 https://github.com/facebookresearch/detectron2
+
 https://github.com/wkentaro/labelme
 
 
